@@ -1,3 +1,7 @@
+CS FourTwentyFive Project
+Made by Esra Nur Ayaz, Can Demirel, Ege Darçın and Ulaş İş
+Finding organism similarities based on protein aminoacid structures using MapReduce and EditDistance algorithms.
+
 $parse.py <input file>
 parses a .fatsa file and converts it to a file in form [ "organism", "protein", "fasta"]
 output file name --> processed_<infile>.json
